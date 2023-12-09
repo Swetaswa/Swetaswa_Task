@@ -1,0 +1,15 @@
+.app {
+  padding: 20px;
+}
+
+.controls {
+  margin-bottom: 20px;
+}
+
+label {
+  margin-right: 10px;
+}
+
+select {
+  margin-left: 5px;
+}
